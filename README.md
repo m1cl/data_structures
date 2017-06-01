@@ -1,5 +1,4 @@
 # data_structures
-<li>
 [Tries](https://en.wikipedia.org/wiki/Trie)
 [Trees](https://en.wikipedia.org/wiki/Tree_(data_structure))
 [Hash Tables](https://en.wikipedia.org/wiki/Hash_table)
@@ -13,4 +12,3 @@
 [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
-</li>
