@@ -28,3 +28,7 @@ void Node::setData(int data){
 int Node::getData(){
   return this->data;
 }
+
+void Node::setNextNode(Node *next){
+  this->next = next;
+}
